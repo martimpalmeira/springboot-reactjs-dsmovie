@@ -1,8 +1,7 @@
 <h1>DSMovie</h1>
 <h2>Apresentação</h2>
-<p>Projeto desenvolvido durante o evento Semana Spring React da plataforma Devsuperior<p>
- 
-<p>A aplicação consiste em um catálogo de filmes com paginação e registro de avaliações dos usuários</p>
+<p>Projeto desenvolvido durante o evento Semana Spring React da plataforma Devsuperior.<br>
+A aplicação consiste em um catálogo de filmes com paginação e registro de avaliações dos usuários</p>
 <img src ="https://github.com/martimpalmeira/dsmovie/blob/main/dsmovie1.png?raw=true" alt="telaDeFilmes" width="45%" align="left">
 <img src = "https://github.com/martimpalmeira/dsmovie/blob/main/dsmovie2.png?raw=true" alt="telaDeAvaliacao" width="45%" align="center">
 
