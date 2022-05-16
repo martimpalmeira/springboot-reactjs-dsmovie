@@ -6,7 +6,7 @@ A aplicação consiste em um catálogo de filmes com paginação e registro de a
 <img src = "https://github.com/martimpalmeira/dsmovie/blob/main/dsmovie2.png?raw=true" alt="telaDeAvaliacao" width="45%" align="center">
 
 <h2>Tecnologias e ferramentas utilizadas</h2>
-<p>Front end: Html, Css, Bootstrap, ReactJs, TypeScript, figma</p>
+<p>Front end: Html, Css, Bootstrap, ReactJs, TypeScript, Figma</p>
 <p>Back end: SpringBoot, PostgreSQL, Heroku, Postman</p>
 
 <h2>Link para Acesso</h2>
